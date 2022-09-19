@@ -3,3 +3,6 @@ system("cls")
 memóriakezelés, minden infó változókban eltárolva
 python - típusfüggetlen => dimanikus memóriakezelés
 hasznát beépített típusok: str, int, float, list, bool
+explicit típuskonverzió - én magam írom be a kódba a típusváltoztatást:
+    szam = int(bemenetiErtek)
+Ebben az esetben a beolvasott string értéket alakítom egésszámmá.
