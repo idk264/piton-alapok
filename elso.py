@@ -4,8 +4,5 @@ system("cls")
 
 elsoValtozo = 12
 
-print(elsoValtozo)
+kiir = "a valtozok erteke: " + str(elsoValtozo)
 
-elsoValtozo = "A 10_a a legjobb"
-
-print(elsoValtozo)
